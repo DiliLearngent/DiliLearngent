@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm DiliLearngent</h1>
 <p align="left">
+<ul style="list-style-type:square">
+ <li><b>OUC,Qingdao,China</b></li>
+ <li><b>研究方向:Web安全</b></li>
+</ul>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
