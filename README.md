@@ -3,6 +3,7 @@
 <ul style="list-style-type:square">
  <li><b>OUC,Qingdao,China</b></li>
  <li><b>研究方向:Web安全</b></li>
+ <li><b>博客:<a href="https://xz.aliyun.com/u/61227">Dili</a></b></li>
 </ul>
 </p>
 
