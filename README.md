@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm DiliLearngent</h1>
 <p align="left">
 <ul style="list-style-type:square">
- <li><b>OUC,Qingdao,China</b></li>
  <li><b>研究方向:Web安全</b></li>
- <li><b>博客:<a href="https://xz.aliyun.com/u/61227">Dili</a></b></li>
+ <li><b>博客:<a href="https://dililearngent.github.io/">Dili</a></b></li>
 </ul>
 </p>
 
